@@ -1,0 +1,56 @@
+Used N/N, Topic
+N,Have you done anything exciting lately?
+N,What was the last good book you read?
+N,Do you listen to any podcasts? Which is your favorite?
+Y,Have you been on any interesting trips lately?
+N,What is your favorite movie and why
+N,If you didn’t have the job you have now, what would you be?
+Y,What’s your strangest hidden talent?
+Y,What is something people are always surprised to learn about you?
+N,If you had no budget, where would you go on vacation and why
+N,What’s the best thing you’ve ever bought off Amazon?
+N,What is one thing you can’t live without?
+Y,What is your favorite book of all time?
+Y,How many countries have you been to?
+Y,Would you rather be really hot or really cold?
+Y,What’s your favorite sport?
+N,Doing anything fun this weekend?
+N,Do you have any pets?
+N,If you could move anywhere, where would you go?
+N,What was the last movie you saw?
+N,What do you normally do for fun?
+N,What hobby do you wish you had more time for?
+N,What did you want to be when you were a kid?
+Y,Tell me about one thing on your bucket list.
+Y,What is one thing you wish you could do that you know you probably never will?
+Y,What’s the biggest risk you’ve ever taken?
+N,Tell me about the most life-changing piece of advice you’ve ever heard.
+N,What’s the hardest thing you’ve ever done?
+N,What made you choose this as your career?
+N,What was your first job?
+Y,What is the worst piece of advice you’ve ever gotten?
+N,What’s the best prank you’ve ever played on someone?
+N,What food do you hate?
+N,If you could only eat one food for the rest of your life, what would it be?
+Y,What’s your best tip for saving money?
+N,What’s your favorite thing to do on your day off work?
+N,What do you do to get rid of stress?
+N,What three words best describe you?
+N,What did you do on your last vacation?
+Y,What were you really into when you were a kid?
+Y,What animal or insect do you wish humans could eradicate?
+N,Was there ever an event in your life that defied explanation?
+N,What is the silliest fear you have?
+Y,What are some things you want to accomplish before you die?
+N,How often do you help others? Who do you help? How do you help?
+N,What makes you nervous?
+N,What’s the worst fast food restaurant?
+N,What is the fanciest restaurant you have eaten at?
+N,Where is the most awe-inspiring place you have been?
+N,What is the worst hotel you have stayed at?
+N,What was the best invention of the last 50 years?
+N,How many kids do you have? What are the up to these days?
+Y,When do you want to retire? What do you want to do when you retire?
+Y,Do you prefer summer or winter activities?
+N,What is the biggest holiday for your family and why?
+N,What is your favorite cuisine or type of food?
